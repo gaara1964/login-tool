@@ -1,18 +1,5 @@
 # LOGIN TOOL Marketing Website
 
-Run the website:
-
-```powershell
-npm install
-npm run dev
-```
-
-Open:
-
-```text
-http://127.0.0.1:5173/
-```
-
 ## Interactive Demo
 
 The site includes a live UI demo.
