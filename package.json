@@ -1,0 +1,15 @@
+{
+  "name": "login-tool-marketing-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing website for LOGIN TOOL.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "start": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
